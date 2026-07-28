@@ -1,0 +1,10 @@
+# Arquivos locais e temporários
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# Artefatos do Power BI
+*.tmp
+*.bak
+~$*
