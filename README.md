@@ -1,7 +1,7 @@
 # Análise de Vendas da Amazon com SQL
 
 <p align="center">
-  <img src="assets/amazon-logo.svg" alt="Amazon" width="360">
+  <img src="assets/amazon-logo.svg" alt="Amazon" width="600">
 </p>
 
 Projeto de portfólio para exploração de vendas de e-commerce com PostgreSQL. O foco é transformar registros de pedidos, clientes, produtos e devoluções em respostas acionáveis para áreas comercial, operações e estoque.
