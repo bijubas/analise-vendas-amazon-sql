@@ -1,5 +1,9 @@
 # Análise de Vendas da Amazon com SQL
 
+<p align="center">
+  <img src="assets/amazon-logo.svg" alt="Amazon" width="360">
+</p>
+
 Projeto de portfólio para exploração de vendas de e-commerce com PostgreSQL. O foco é transformar registros de pedidos, clientes, produtos e devoluções em respostas acionáveis para áreas comercial, operações e estoque.
 
 > **Status:** projeto analítico documentado. As consultas foram escritas para PostgreSQL e usam o modelo em português descrito em [`docs/modelo-de-dados.md`](docs/modelo-de-dados.md).
@@ -239,7 +243,3 @@ As análises permitem decisões como:
 3. Importe os dados para as tabelas correspondentes, respeitando as chaves do modelo.
 4. Execute `sql/02_analises-de-negocio.sql` por blocos ou integralmente.
 5. Compare os resultados com as perguntas de negócio documentadas acima.
-
-## Evoluções Sugeridas
-
-Consulte o [guia de dashboard](docs/guia-de-dashboard.md) para uma proposta de painel no Power BI. Próximas melhorias incluem carga automatizada, dicionário de dados, testes de qualidade e métricas de retenção de clientes.
