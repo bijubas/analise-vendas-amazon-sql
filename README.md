@@ -6,6 +6,14 @@
 
 Projeto de portfólio para exploração de vendas de e-commerce com PostgreSQL. O foco é transformar registros de pedidos, clientes, produtos e devoluções em respostas acionáveis para áreas comercial, operações e estoque.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-0F4C81?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Modelagem%20de%20Dados-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white" alt="Modelagem de Dados">
+  <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-1F7A8C?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Análise de Dados">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
 > **Status:** projeto analítico documentado. As consultas foram escritas para PostgreSQL e usam o modelo em português descrito em [`docs/modelo-de-dados.md`](docs/modelo-de-dados.md).
 
 ## Sumário
